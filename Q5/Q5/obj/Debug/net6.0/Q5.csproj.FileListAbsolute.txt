@@ -1,0 +1,15 @@
+D:\Linked List\Q5\Q5\bin\Debug\net6.0\Q5.exe
+D:\Linked List\Q5\Q5\bin\Debug\net6.0\Q5.deps.json
+D:\Linked List\Q5\Q5\bin\Debug\net6.0\Q5.runtimeconfig.json
+D:\Linked List\Q5\Q5\bin\Debug\net6.0\Q5.dll
+D:\Linked List\Q5\Q5\bin\Debug\net6.0\Q5.pdb
+D:\Linked List\Q5\Q5\obj\Debug\net6.0\Q5.csproj.AssemblyReference.cache
+D:\Linked List\Q5\Q5\obj\Debug\net6.0\Q5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linked List\Q5\Q5\obj\Debug\net6.0\Q5.AssemblyInfoInputs.cache
+D:\Linked List\Q5\Q5\obj\Debug\net6.0\Q5.AssemblyInfo.cs
+D:\Linked List\Q5\Q5\obj\Debug\net6.0\Q5.csproj.CoreCompileInputs.cache
+D:\Linked List\Q5\Q5\obj\Debug\net6.0\Q5.dll
+D:\Linked List\Q5\Q5\obj\Debug\net6.0\refint\Q5.dll
+D:\Linked List\Q5\Q5\obj\Debug\net6.0\Q5.pdb
+D:\Linked List\Q5\Q5\obj\Debug\net6.0\Q5.genruntimeconfig.cache
+D:\Linked List\Q5\Q5\obj\Debug\net6.0\ref\Q5.dll

@@ -1,0 +1,15 @@
+D:\Linked List\Q18\Q18\bin\Debug\net6.0\Q18.exe
+D:\Linked List\Q18\Q18\bin\Debug\net6.0\Q18.deps.json
+D:\Linked List\Q18\Q18\bin\Debug\net6.0\Q18.runtimeconfig.json
+D:\Linked List\Q18\Q18\bin\Debug\net6.0\Q18.dll
+D:\Linked List\Q18\Q18\bin\Debug\net6.0\Q18.pdb
+D:\Linked List\Q18\Q18\obj\Debug\net6.0\Q18.csproj.AssemblyReference.cache
+D:\Linked List\Q18\Q18\obj\Debug\net6.0\Q18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linked List\Q18\Q18\obj\Debug\net6.0\Q18.AssemblyInfoInputs.cache
+D:\Linked List\Q18\Q18\obj\Debug\net6.0\Q18.AssemblyInfo.cs
+D:\Linked List\Q18\Q18\obj\Debug\net6.0\Q18.csproj.CoreCompileInputs.cache
+D:\Linked List\Q18\Q18\obj\Debug\net6.0\Q18.dll
+D:\Linked List\Q18\Q18\obj\Debug\net6.0\refint\Q18.dll
+D:\Linked List\Q18\Q18\obj\Debug\net6.0\Q18.pdb
+D:\Linked List\Q18\Q18\obj\Debug\net6.0\Q18.genruntimeconfig.cache
+D:\Linked List\Q18\Q18\obj\Debug\net6.0\ref\Q18.dll

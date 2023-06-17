@@ -1,0 +1,15 @@
+D:\Linked List\Q3\Q3\bin\Debug\net6.0\Q3.exe
+D:\Linked List\Q3\Q3\bin\Debug\net6.0\Q3.deps.json
+D:\Linked List\Q3\Q3\bin\Debug\net6.0\Q3.runtimeconfig.json
+D:\Linked List\Q3\Q3\bin\Debug\net6.0\Q3.dll
+D:\Linked List\Q3\Q3\bin\Debug\net6.0\Q3.pdb
+D:\Linked List\Q3\Q3\obj\Debug\net6.0\Q3.csproj.AssemblyReference.cache
+D:\Linked List\Q3\Q3\obj\Debug\net6.0\Q3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linked List\Q3\Q3\obj\Debug\net6.0\Q3.AssemblyInfoInputs.cache
+D:\Linked List\Q3\Q3\obj\Debug\net6.0\Q3.AssemblyInfo.cs
+D:\Linked List\Q3\Q3\obj\Debug\net6.0\Q3.csproj.CoreCompileInputs.cache
+D:\Linked List\Q3\Q3\obj\Debug\net6.0\Q3.dll
+D:\Linked List\Q3\Q3\obj\Debug\net6.0\refint\Q3.dll
+D:\Linked List\Q3\Q3\obj\Debug\net6.0\Q3.pdb
+D:\Linked List\Q3\Q3\obj\Debug\net6.0\Q3.genruntimeconfig.cache
+D:\Linked List\Q3\Q3\obj\Debug\net6.0\ref\Q3.dll

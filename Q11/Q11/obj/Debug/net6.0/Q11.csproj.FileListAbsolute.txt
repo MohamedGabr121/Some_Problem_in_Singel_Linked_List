@@ -1,0 +1,15 @@
+D:\Linked List\Q11\Q11\bin\Debug\net6.0\Q11.exe
+D:\Linked List\Q11\Q11\bin\Debug\net6.0\Q11.deps.json
+D:\Linked List\Q11\Q11\bin\Debug\net6.0\Q11.runtimeconfig.json
+D:\Linked List\Q11\Q11\bin\Debug\net6.0\Q11.dll
+D:\Linked List\Q11\Q11\bin\Debug\net6.0\Q11.pdb
+D:\Linked List\Q11\Q11\obj\Debug\net6.0\Q11.csproj.AssemblyReference.cache
+D:\Linked List\Q11\Q11\obj\Debug\net6.0\Q11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linked List\Q11\Q11\obj\Debug\net6.0\Q11.AssemblyInfoInputs.cache
+D:\Linked List\Q11\Q11\obj\Debug\net6.0\Q11.AssemblyInfo.cs
+D:\Linked List\Q11\Q11\obj\Debug\net6.0\Q11.csproj.CoreCompileInputs.cache
+D:\Linked List\Q11\Q11\obj\Debug\net6.0\Q11.dll
+D:\Linked List\Q11\Q11\obj\Debug\net6.0\refint\Q11.dll
+D:\Linked List\Q11\Q11\obj\Debug\net6.0\Q11.pdb
+D:\Linked List\Q11\Q11\obj\Debug\net6.0\Q11.genruntimeconfig.cache
+D:\Linked List\Q11\Q11\obj\Debug\net6.0\ref\Q11.dll

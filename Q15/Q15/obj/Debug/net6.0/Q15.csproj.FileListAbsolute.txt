@@ -1,0 +1,15 @@
+D:\Linked List\Q15\Q15\bin\Debug\net6.0\Q15.exe
+D:\Linked List\Q15\Q15\bin\Debug\net6.0\Q15.deps.json
+D:\Linked List\Q15\Q15\bin\Debug\net6.0\Q15.runtimeconfig.json
+D:\Linked List\Q15\Q15\bin\Debug\net6.0\Q15.dll
+D:\Linked List\Q15\Q15\bin\Debug\net6.0\Q15.pdb
+D:\Linked List\Q15\Q15\obj\Debug\net6.0\Q15.csproj.AssemblyReference.cache
+D:\Linked List\Q15\Q15\obj\Debug\net6.0\Q15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linked List\Q15\Q15\obj\Debug\net6.0\Q15.AssemblyInfoInputs.cache
+D:\Linked List\Q15\Q15\obj\Debug\net6.0\Q15.AssemblyInfo.cs
+D:\Linked List\Q15\Q15\obj\Debug\net6.0\Q15.csproj.CoreCompileInputs.cache
+D:\Linked List\Q15\Q15\obj\Debug\net6.0\Q15.dll
+D:\Linked List\Q15\Q15\obj\Debug\net6.0\refint\Q15.dll
+D:\Linked List\Q15\Q15\obj\Debug\net6.0\Q15.pdb
+D:\Linked List\Q15\Q15\obj\Debug\net6.0\Q15.genruntimeconfig.cache
+D:\Linked List\Q15\Q15\obj\Debug\net6.0\ref\Q15.dll
